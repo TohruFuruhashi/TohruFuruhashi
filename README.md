@@ -1,4 +1,4 @@
-- 👋 Hi, I am @TohruFuruhashi. I've been a self-employed system engineer since 2002.
+- 👋 Hi, I am Tohru Furuhashi. I've been a self-employed system engineer since 2002.
 - 👀 I can use Java, Perl, VBA, PHP and Python.
 - 🌱 I've developed many web systems and batch systems linked to Oracle, PostgreSQL and MySQL.
 - 💞️ Besides I have the chair of database management, SQL, Java and VBA at a college 
